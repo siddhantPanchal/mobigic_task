@@ -4,6 +4,7 @@
 Application has following features
  
 ![Splash Screen](https://github.com/siddhantPanchal/mobigic_task/blob/main/Splash%20Screen.png)
+![Game Play] (https://github.com/siddhantPanchal/mobigic_task/blob/main/Game%20play.png)
 
 * Splash Screen
 
