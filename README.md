@@ -2,9 +2,10 @@
 # Mobigic Word Game
 
 Application has following features
+ 
+![Splash Screen](https://github.com/siddhantPanchal/mobigic_task/blob/main/Splash%20Screen.png)
 
 * Splash Screen
- ![Splash Screen](https://github.com/siddhantPanchal/mobigic_task/blob/main/Splash%20Screen.png)
 
 * enter numbers m & n which indirectly indicates m rows and n column of a 2D grid.
 * the user should enter alphabets such that one alphabet occupies one position in the grid. Here we will need m*n number of alphabets.
